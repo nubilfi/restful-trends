@@ -22,7 +22,7 @@ The default of _basic authentication account_ is:
 - username: changeme
 - password: changeme
 
-If you want to use _Google Trend AI Worker_, you need to change the `default prompt` which defined in [utils.py](https://github.com/nubilfi/restful-trends/blob/b3fc4b29d7fdf27011acb2e796d3d8c1db316682/app/utils.py#L72) file.
+If you want to use _Google Trend AI Worker_, you need to change the `default prompt` which defined in [utils.py](https://github.com/nubilfi/restful-trends/blob/2026ff235c507056a85b65988ffb8b12189701ff/app/utils.py#L72) file.
 
 ## Usage
 
